@@ -1,0 +1,16 @@
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\bin\Debug\net5.0\puzzles.exe
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\bin\Debug\net5.0\puzzles.deps.json
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\bin\Debug\net5.0\puzzles.runtimeconfig.json
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\bin\Debug\net5.0\puzzles.runtimeconfig.dev.json
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\bin\Debug\net5.0\puzzles.dll
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\bin\Debug\net5.0\ref\puzzles.dll
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\bin\Debug\net5.0\puzzles.pdb
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\obj\Debug\net5.0\puzzles.csprojAssemblyReference.cache
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\obj\Debug\net5.0\puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\obj\Debug\net5.0\puzzles.AssemblyInfoInputs.cache
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\obj\Debug\net5.0\puzzles.AssemblyInfo.cs
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\obj\Debug\net5.0\puzzles.csproj.CoreCompileInputs.cache
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\obj\Debug\net5.0\puzzles.dll
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\obj\Debug\net5.0\ref\puzzles.dll
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\obj\Debug\net5.0\puzzles.pdb
+C:\Users\nardi pc\Desktop\Coding_Dojo\C#\fundamentals\puzzles\obj\Debug\net5.0\puzzles.genruntimeconfig.cache
